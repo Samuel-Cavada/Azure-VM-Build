@@ -34,8 +34,9 @@ By the end of this project, I successfully created a secure and efficient Azure 
 8. [Azure Virtual Machine Review Page](#step-8-azure-virtual-machine-review-page)
 9. [Azure Virtual Machine Deployment Confirmation Page](#step-9-azure-virtual-machine-deployment-confirmation-page)
 10. [Azure Resource Group Homepage](#step-10-azure-resource-group-homepage) 
+##
 
-### Step 1 Adding a Resource to Azure Group
+### Step 1 [Adding a Resource to Azure Group]
 
 > _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
 > 
