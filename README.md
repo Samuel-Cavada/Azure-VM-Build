@@ -48,6 +48,7 @@ Security Architecture - Developed a holistic security architecture that consider
 - **[I]** Select standard-ds1-v2 vCPU, 3.5 GiB memory ($41.61/month). - Cheaper option.
 - **[J]** Create a username and password. Make sure that it is at least 15 characters or longer with special characters, lowercase, and uppercase to ensure it is secure.
 - **[K]** If you want to be able to remote into via RDP, then turn this on. I will, as I will use this virtual machine to conduct vulnerability management and threat hunting and other cybersecurity projects.
+- _Go to the next tab: Disks_
 
 ![Step 3](images/3.jpg "Step 3 Basics Setup")
 
