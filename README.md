@@ -69,6 +69,8 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 - **[N]** Enabling platform-managed keys for the OS disk ensures automatic encryption (at rest)
 
+- _Go to the next tab: Network_
+
 ![Step 4](images/4.jpg "Step 4 - Click Create Resource")
 
 
@@ -86,6 +88,8 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 - **[R]**
 
+- _Go to the next tab: Management_
+  
 ![Step 5](images/5.jpg "Step 5 - Disk tab")
 
 
@@ -95,6 +99,8 @@ By the end of this project, I successfully created a secure and efficient Azure 
 > _In the Management tab, configure the management settings for your Azure Virtual Machine._
 
 - No need to modify anything on this page.
+
+- _Go to the next tab: Monitoring_
   
 ![Step 6](images/6.jpg "Step 6 - Management tab")
 
@@ -105,7 +111,10 @@ By the end of this project, I successfully created a secure and efficient Azure 
 > _In the Monitoring tab, configure the monitoring settings for your Azure Virtual Machine._
 
 - **[S]** Disable boot diagnostics as it will increase boot-up time.
+  
 - **[T]** Review and create the VM.
+
+- _Go to the next page: Review + Create_
 
 ![Step 7](images/7.jpg "Step 7 - Monitoring tab")
 
@@ -118,6 +127,8 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 -  Review and create the VM.
 
+- _Go to the next page: Create_
+
 ![Step 8](images/8.jpg "Step 8 - Azure Virtual Machine Review Page")
 
 
@@ -125,6 +136,8 @@ By the end of this project, I successfully created a secure and efficient Azure 
 ### ✅ Step 9: [Azure Virtual Machine Deployment Confirmation Page]
 
 > _Confirm the deployment of your Azure Virtual Machine._
+
+- _Go to the next page: Go To Resource_
 
 ![Step 9](images/9.jpg "Step 9 - Azure Virtual Machine Deployment Confirmation Page")
 
