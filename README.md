@@ -54,9 +54,9 @@ Security Architecture - Developed a holistic security architecture that consider
 
 
 > 
-### ✅ Step 4: [Adding a Resource to Azure Group]
+### ✅ Step 4: [Disk Tab]
 
-> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+> _In the Disk tab, you can configure the storage options for your Azure Virtual Machine._
 
 ![Step 4](images/4.jpg "Step 4 - Click Create Resource")
 
@@ -65,15 +65,17 @@ Security Architecture - Developed a holistic security architecture that consider
 ### ✅ Step 5: [Adding a Resource to Azure Group]
 
 > _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
-
+<!--
 ![Step 5](images/5.jpg "Step 5 - Azure Marketplace Opens")
-
+-->
 
 > 
 ### ✅ Step 6: [Adding a Resource to Azure Group]
 
 > _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
 
+- No need to modify anything on this page.
+  
 ![Step 6](images/6.jpg "Step 6 - Search for the Resource Type")
 
 
@@ -81,6 +83,9 @@ Security Architecture - Developed a holistic security architecture that consider
 ### ✅ Step 7: [Adding a Resource to Azure Group]
 
 > _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+
+- **[S]** Disable boot diagnostics as it will increase boot-up time.
+- **[T]** Review and create the VM.
 
 ![Step 7](images/7.jpg "Step 7 - Select the Desired Resource")
 
@@ -90,6 +95,8 @@ Security Architecture - Developed a holistic security architecture that consider
 ### ✅ Step 8: [Adding a Resource to Azure Group]
 
 > _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+
+-  Review and create the VM.
 
 ![Step 8](images/8.jpg "Step 8 - Fill in Configuration Details")
 
