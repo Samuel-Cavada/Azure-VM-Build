@@ -62,56 +62,56 @@ Security Architecture - Developed a holistic security architecture that consider
 
 
 > 
-### ✅ Step 5: [Adding a Resource to Azure Group]
+### ✅ Step 5: [Disk tab]
 
 > _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
 <!--
-![Step 5](images/5.jpg "Step 5 - Azure Marketplace Opens")
+![Step 5](images/5.jpg "Step 5 - Disk tab")
 -->
 
 > 
-### ✅ Step 6: [Adding a Resource to Azure Group]
+### ✅ Step 6: [Management tab]
 
 > _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
 
 - No need to modify anything on this page.
   
-![Step 6](images/6.jpg "Step 6 - Search for the Resource Type")
+![Step 6](images/6.jpg "Step 6 - Management tab")
 
 
 > 
-### ✅ Step 7: [Adding a Resource to Azure Group]
+### ✅ Step 7: [Monitoring tab]
 
 > _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
 
 - **[S]** Disable boot diagnostics as it will increase boot-up time.
 - **[T]** Review and create the VM.
 
-![Step 7](images/7.jpg "Step 7 - Select the Desired Resource")
+![Step 7](images/7.jpg "Step 7 - Monitoring tab")
 
 
 
 > 
-### ✅ Step 8: [Adding a Resource to Azure Group]
+### ✅ Step 8: [Azure Virtual Machine Review Page]
 
 > _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
 
 -  Review and create the VM.
 
-![Step 8](images/8.jpg "Step 8 - Fill in Configuration Details")
+![Step 8](images/8.jpg "Step 8 - Azure Virtual Machine Review Page")
 
 
 > 
-### ✅ Step 9: [Adding a Resource to Azure Group]
+### ✅ Step 9: [Azure Virtual Machine Deployment Confirmation Page]
 
 > _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
 
-![Step 9](images/9.jpg "Step 9 - Confirm Resource Group and Settings")
+![Step 9](images/9.jpg "Step 9 - Azure Virtual Machine Deployment Confirmation Page")
 
 
 > 
-### ✅ Step 10: [Adding a Resource to Azure Group]
+### ✅ Step 10: [Azure Resource Group Homepage]
 
 > _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
 >
-![Step 10](images/10.jpg "Step 10 - Review and Create")
+![Step 10](images/10.jpg "Step 10 - Azure Resource Group Homepage")
