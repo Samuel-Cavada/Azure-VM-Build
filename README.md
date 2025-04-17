@@ -24,7 +24,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 # Walkthrough
 
-1. [Adding a Resource to Azure Group](###✅ Step 1: Adding a Resource to Azure Group)
+1. [Adding a Resource to Azure Group](#✅-step-1:-[adding-a-resource-to-azure-group])
 2. [Programming Languages](#programming-languages)
 3. [Basics Tab](#projects)
 4. [Disk Tab](#education)
