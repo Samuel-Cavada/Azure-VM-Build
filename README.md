@@ -32,16 +32,16 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 
 > 
-### ✅ Step 2: [Adding a Resource to Azure Group]
+### ✅ Step 2: [Azure Marketplace]
 
-> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+> _Once in your resource group, click on the 'Create Resource' button to open the Azure Marketplace._
 
-![Step 2](images/2.jpg "Step 2 - Navigate to Resource Groups")
+![Step 2](images/2.jpg "Step 2 - Azure Marketplace")
 
 > 
 ### ✅ Step 3: [Basics Tab]
 
-> _In the Basics tab, you can configure essential settings for your Azure Virtual Machine, such as the subscription, resource group, and VM name._
+> _In the Basics tab, configure essential settings for your Azure Virtual Machine, such as the subscription, resource group, and VM name._
 - **[A]** Select the appropriate subscription. I had to select the one that had my resource group in it.
 - **[B]** Select the appropriate resource group. I was given this resource group.
 - **[C]** Create the name of your virtual machine.
@@ -61,7 +61,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 > 
 ### ✅ Step 4: [Disk Tab]
 
-> _In the Disk tab, you can configure the storage options for your Azure Virtual Machine._
+> _In the Disk tab, configure the storage options for your Azure Virtual Machine._
 
 - **[L]** Select the desired OS disk size.
 
@@ -75,7 +75,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 > 
 ### ✅ Step 5: [Disk tab]
 
-> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+> _In the Networking tab, configure the network settings for your Azure Virtual Machine._
 
 - **[O]** Select the appropriate virtual network. 
 
@@ -92,7 +92,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 > 
 ### ✅ Step 6: [Management tab]
 
-> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+> _In the Management tab, configure the management settings for your Azure Virtual Machine._
 
 - No need to modify anything on this page.
   
@@ -102,7 +102,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 > 
 ### ✅ Step 7: [Monitoring tab]
 
-> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+> _In the Monitoring tab, configure the monitoring settings for your Azure Virtual Machine._
 
 - **[S]** Disable boot diagnostics as it will increase boot-up time.
 - **[T]** Review and create the VM.
@@ -114,7 +114,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 > 
 ### ✅ Step 8: [Azure Virtual Machine Review Page]
 
-> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+> _Review all the settings and create the VM._
 
 -  Review and create the VM.
 
@@ -124,7 +124,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 > 
 ### ✅ Step 9: [Azure Virtual Machine Deployment Confirmation Page]
 
-> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+> _Confirm the deployment of your Azure Virtual Machine._
 
 ![Step 9](images/9.jpg "Step 9 - Azure Virtual Machine Deployment Confirmation Page")
 
@@ -132,6 +132,6 @@ By the end of this project, I successfully created a secure and efficient Azure 
 > 
 ### ✅ Step 10: [Azure Resource Group Homepage]
 
-> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+> _Return to the Azure Resource Group homepage.._
 >
 ![Step 10](images/10.jpg "Step 10 - Azure Resource Group Homepage")
