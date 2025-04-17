@@ -24,6 +24,17 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 # Walkthrough
 
+1. [Adding a Resource to Azure Group](###✅ Step 1: Adding a Resource to Azure Group)
+2. [Programming Languages](#programming-languages)
+3. [Basics Tab](#projects)
+4. [Disk Tab](#education)
+5. [Network tab](#certifications)
+6. [Management tab](#security-tools)
+7. [Monitoring tab](#programming-languages)
+8. [Azure Virtual Machine Review Page](#projects)
+9. [Azure Virtual Machine Deployment Confirmation Page](#education)
+10. [Azure Resource Group Homepage](#education) 
+
 ### ✅ Step 1: [Adding a Resource to Azure Group]
 
 > _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
@@ -75,7 +86,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 
 > 
-### ✅ Step 5: [Disk tab]
+### ✅ Step 5: [Network tab]
 
 > _In the Networking tab, configure the network settings for your Azure Virtual Machine._
 
@@ -90,7 +101,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 - _Go to the next tab: Management_
   
-![Step 5](images/5.jpg "Step 5 - Disk tab")
+![Step 5](images/5.jpg "Step 5 - Network tab")
 
 
 > 
