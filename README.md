@@ -16,3 +16,56 @@ Security Architecture - Developed a holistic security architecture that consider
 
 # Outcomes 
 - Talk about what you achieved, use screenshots!-
+
+### ✅ Step 1: [Adding a Resource to Azure Group]
+
+> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+> 
+![ Image 1](images/1.jpg "CREATING A NEW RESOURCE INSIDE YOUR RESOURCE GROUP")
+
+
+
+### ✅ Step 1: [Adding a Resource to Azure Group]
+
+> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+
+
+
+
+### ✅ Step 1: [Adding a Resource to Azure Group]
+
+> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+
+
+
+
+
+### ✅ Step 1: [Adding a Resource to Azure Group]
+
+> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+
+
+
+
+
+### ✅ Step 1: [Adding a Resource to Azure Group]
+
+> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+
+
+
+
+
+### ✅ Step 1: [Adding a Resource to Azure Group]
+
+> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+
+
+
+
+
+### ✅ Step 1: [Adding a Resource to Azure Group]
+
+> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+>
+> 
