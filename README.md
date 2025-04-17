@@ -25,15 +25,15 @@ By the end of this project, I successfully created a secure and efficient Azure 
 # Walkthrough
 
 1. [Adding a Resource to Azure Group](#step-1-adding-a-resource-to-azure-group)
-2. [Programming Languages](#programming-languages)
-3. [Basics Tab](#projects)
-4. [Disk Tab](#education)
-5. [Network tab](#certifications)
-6. [Management tab](#security-tools)
-7. [Monitoring tab](#programming-languages)
-8. [Azure Virtual Machine Review Page](#projects)
-9. [Azure Virtual Machine Deployment Confirmation Page](#education)
-10. [Azure Resource Group Homepage](#education) 
+2. [Programming Languages](#step-2-azure-marketplace)
+3. [Basics Tab](#step-3-basics-tab)
+4. [Disk Tab](#step-4-disk-tab)
+5. [Network tab](#step-5-network-tab)
+6. [Management tab](#step-6-management-tab)
+7. [Monitoring tab](#step-7-monitoring-tab)
+8. [Azure Virtual Machine Review Page](#step-8-azure-virtual-machine-review-page)
+9. [Azure Virtual Machine Deployment Confirmation Page](#step-9-azure-virtual-machine-deployment-confirmation-page)
+10. [Azure Resource Group Homepage](#step-10-azure-resource-group-homepage) 
 
 ### Step 1 Adding a Resource to Azure Group
 
@@ -43,14 +43,14 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 
 > 
-### ✅ Step 2: [Azure Marketplace]
+### Step 2: [Azure Marketplace]
 
 > _Once in your resource group, click on the 'Create Resource' button to open the Azure Marketplace._
 
 ![Step 2](images/2.jpg "Step 2 - Azure Marketplace")
 
 > 
-### ✅ Step 3: [Basics Tab]
+### Step 3: [Basics Tab]
 
 > _In the Basics tab, configure essential settings for your Azure Virtual Machine, such as the subscription, resource group, and VM name._
 - **[A]** Select the appropriate subscription. I had to select the one that had my resource group in it.
@@ -70,7 +70,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 
 > 
-### ✅ Step 4: [Disk Tab]
+### Step 4: [Disk Tab]
 
 > _In the Disk tab, configure the storage options for your Azure Virtual Machine._
 
@@ -86,7 +86,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 
 > 
-### ✅ Step 5: [Network tab]
+### Step 5: [Network tab]
 
 > _In the Networking tab, configure the network settings for your Azure Virtual Machine._
 
@@ -105,7 +105,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 
 > 
-### ✅ Step 6: [Management tab]
+### Step 6: [Management tab]
 
 > _In the Management tab, configure the management settings for your Azure Virtual Machine._
 
@@ -117,7 +117,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 
 > 
-### ✅ Step 7: [Monitoring tab]
+### Step 7: [Monitoring tab]
 
 > _In the Monitoring tab, configure the monitoring settings for your Azure Virtual Machine._
 
@@ -132,7 +132,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 
 > 
-### ✅ Step 8: [Azure Virtual Machine Review Page]
+### Step 8: [Azure Virtual Machine Review Page]
 
 > _Review all the settings and create the VM._
 
@@ -144,7 +144,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 
 > 
-### ✅ Step 9: [Azure Virtual Machine Deployment Confirmation Page]
+### Step 9: [Azure Virtual Machine Deployment Confirmation Page]
 
 > _Confirm the deployment of your Azure Virtual Machine._
 
@@ -154,7 +154,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 
 > 
-### ✅ Step 10: [Azure Resource Group Homepage]
+### Step 10: [Azure Resource Group Homepage]
 
 > _Return to the Azure Resource Group homepage.._
 >
