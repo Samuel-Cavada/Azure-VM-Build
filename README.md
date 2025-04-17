@@ -17,6 +17,8 @@ Security Architecture - Developed a holistic security architecture that consider
 # Outcomes 
 - Talk about what you achieved, use screenshots!-
 
+# Walkthrough
+
 ### ✅ Step 1: [Adding a Resource to Azure Group]
 
 > _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
@@ -32,11 +34,22 @@ Security Architecture - Developed a holistic security architecture that consider
 ![Step 2](images/2.jpg "Step 2 - Navigate to Resource Groups")
 
 > 
-### ✅ Step 3: [Adding a Resource to Azure Group]
+### ✅ Step 3: [Basics Tab]
 
-> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+> _In the Basics tab, you can configure essential settings for your Azure Virtual Machine, such as the subscription, resource group, and VM name._
+- **[A]** Select the appropriate subscription. I had to select the one that had my resource group in it.
+- **[B]** Select the appropriate resource group. I was given this resource group.
+- **[C]** Create the name of your virtual machine.
+- **[D]** Select the region according to my time zone.
+- **[E]** Keep this as is.
+- **[F]** Keep this as is.
+- **[G]** Trusted launch virtual machine: This offers secure boot, vTPM, and boot integrity to ensure a secure boot-up.
+- **[H]** Select the OS you want.
+- **[I]** Select standard-ds1-v2 vCPU, 3.5 GiB memory ($41.61/month). - Cheaper option.
+- **[J]** Create a username and password. Make sure that it is at least 15 characters or longer with special characters, lowercase, and uppercase to ensure it is secure.
+- **[K]** If you want to be able to remote into via RDP, then turn this on. I will, as I will use this virtual machine to conduct vulnerability management and threat hunting and other cybersecurity projects.
 
-![Step 3](images/3.jpg "Step 3 - Select Your Resource Group")
+![Step 3](images/3.jpg "Step 3 Basics Setup")
 
 
 > 
