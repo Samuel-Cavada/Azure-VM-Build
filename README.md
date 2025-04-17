@@ -1,4 +1,4 @@
-# Azure VM Build
+# Azure Virtual Machine Deployment
 
 # Project Objective
 
@@ -63,6 +63,12 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 > _In the Disk tab, you can configure the storage options for your Azure Virtual Machine._
 
+- **[L]** Select the desired OS disk size.
+
+- **[M]** Select the desired disk type.
+
+- **[N]** Enabling platform-managed keys for the OS disk ensures automatic encryption (at rest)
+
 ![Step 4](images/4.jpg "Step 4 - Click Create Resource")
 
 
@@ -70,9 +76,18 @@ By the end of this project, I successfully created a secure and efficient Azure 
 ### ✅ Step 5: [Disk tab]
 
 > _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
-<!--
+
+- **[O]** Select the appropriate virtual network. 
+
+- **[P]** Select the appropriate subnet.
+
+
+- **[Q]** Select this option only if you are okay with having a public IP address. This will increase the chance of exposure and also be a target for malicious attacks from the network.
+
+- **[R]**
+
 ![Step 5](images/5.jpg "Step 5 - Disk tab")
--->
+
 
 > 
 ### ✅ Step 6: [Management tab]
