@@ -1,21 +1,26 @@
 # Azure VM Build
 
 # Project Objective
--Here you want to outline your project objective/goal - 
 
-Building a Comprehensive SIEM Solution. My goals are to centralize log collection, correlation, and analysis, enabling proactive threat detection, incident response, and improved overall cybersecurity posture.The project aims to provide real-time visibility into security events and enhance incident response capabilities.
+The main aim of this project is to establish a secure and efficient Azure Virtual Machine environment. This involves configuring VM settings, ensuring robust data encryption, and optimizing network security to support tasks such as remote access and cybersecurity operations.
 
 # Tools 
--List of tools used within the project-
-e.g. Azure
+
+- Azure Portal: For creating and managing virtual machines.
+- Azure Key Vault: To securely store and manage encryption keys.
+- Azure Network Security Groups: To control inbound and outbound traffic to the VM.
+- Remote Desktop Protocol (RDP): For remote access to the VM.
 
 # Skills Gained
--List and explain the skills. Show why they are key for Cyber Security-
 
-Security Architecture - Developed a holistic security architecture that considered the entire system, addressing weaknesses and ensuring a cohesive security strategy.
+- Azure VM Configuration: Learn how to set up and configure virtual machines in Azure.
+- Data Encryption: Understand the importance of encryption and how to implement it using platform-managed keys.
+- Network Security: Gain insights into configuring network security groups and managing traffic.
+- Remote Access Management: Develop skills in setting up secure remote access to virtual machines.
 
 # Outcomes 
-- Talk about what you achieved, use screenshots!-
+
+By the end of this project, I successfully created a secure and efficient Azure Virtual Machine. I gained valuable skills in configuring VMs, managing encryption keys, and implementing network security measures. Additionally, I developed proficiency in setting up remote access and learned best practices for cybersecurity, enhancing my ability to conduct vulnerability assessments and threat hunting activities.
 
 # Walkthrough
 
