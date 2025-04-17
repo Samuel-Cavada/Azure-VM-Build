@@ -24,48 +24,73 @@ Security Architecture - Developed a holistic security architecture that consider
 ![ Image 1](images/1.jpg "CREATING A NEW RESOURCE INSIDE YOUR RESOURCE GROUP")
 
 
-
-### ✅ Step 1: [Adding a Resource to Azure Group]
-
-> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
-
-
-
-
-### ✅ Step 1: [Adding a Resource to Azure Group]
+> 
+### ✅ Step 2: [Adding a Resource to Azure Group]
 
 > _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
 
+![Step 2](images/2.jpg "Step 2 - Navigate to Resource Groups")
 
-
-
-
-### ✅ Step 1: [Adding a Resource to Azure Group]
-
-> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
-
-
-
-
-
-### ✅ Step 1: [Adding a Resource to Azure Group]
+> 
+### ✅ Step 3: [Adding a Resource to Azure Group]
 
 > _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
 
+![Step 3](images/3.jpg "Step 3 - Select Your Resource Group")
 
 
-
-
-### ✅ Step 1: [Adding a Resource to Azure Group]
+> 
+### ✅ Step 4: [Adding a Resource to Azure Group]
 
 > _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
 
+![Step 4](images/4.jpg "Step 4 - Click Create Resource")
+
+
+> 
+### ✅ Step 5: [Adding a Resource to Azure Group]
+
+> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+
+![Step 5](images/5.jpg "Step 5 - Azure Marketplace Opens")
+
+
+> 
+### ✅ Step 6: [Adding a Resource to Azure Group]
+
+> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+
+![Step 6](images/6.jpg "Step 6 - Search for the Resource Type")
+
+
+> 
+### ✅ Step 7: [Adding a Resource to Azure Group]
+
+> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+
+![Step 7](images/7.jpg "Step 7 - Select the Desired Resource")
 
 
 
+> 
+### ✅ Step 8: [Adding a Resource to Azure Group]
 
-### ✅ Step 1: [Adding a Resource to Azure Group]
+> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+
+![Step 8](images/8.jpg "Step 8 - Fill in Configuration Details")
+
+
+> 
+### ✅ Step 9: [Adding a Resource to Azure Group]
+
+> _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
+
+![Step 9](images/9.jpg "Step 9 - Confirm Resource Group and Settings")
+
+
+> 
+### ✅ Step 10: [Adding a Resource to Azure Group]
 
 > _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
 >
-> 
+![Step 10](images/10.jpg "Step 10 - Review and Create")
