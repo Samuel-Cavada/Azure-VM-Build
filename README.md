@@ -1,4 +1,5 @@
-# Azure Virtual Machine Deployment
+<h1 align="center">Azure Virtual Machine Deployment</h1>
+
 
 # Project Objective
 
