@@ -2,26 +2,28 @@
 
 
 # Project Objective
+This project focuses on building a secure and functional Azure Virtual Machine (VM) environment from the ground up. The goal was to configure key settings, strengthen encryption, and tighten network security — all essential for enabling secure remote access and supporting cybersecurity operations like vulnerability management and threat hunting.
 
-The main aim of this project is to establish a secure and efficient Azure Virtual Machine environment. This involves configuring VM settings, ensuring robust data encryption, and optimizing network security to support tasks such as remote access and cybersecurity operations.
 
 # Tools 
+- Azure Portal – VM deployment and management
+- Azure Key Vault – Encryption key storage
+- Azure Network Security Groups – Traffic filtering and access control
+- Remote Desktop Protocol (RDP) – Remote connection setup
 
-- Azure Portal: For creating and managing virtual machines.
-- Azure Key Vault: To securely store and manage encryption keys.
-- Azure Network Security Groups: To control inbound and outbound traffic to the VM.
-- Remote Desktop Protocol (RDP): For remote access to the VM.
 
 # Skills Gained
 
-- Azure VM Configuration: Learn how to set up and configure virtual machines in Azure.
-- Data Encryption: Understand the importance of encryption and how to implement it using platform-managed keys.
-- Network Security: Gain insights into configuring network security groups and managing traffic.
-- Remote Access Management: Develop skills in setting up secure remote access to virtual machines.
+- Deploying and configuring Azure Virtual Machines
+- Implementing data encryption with platform-managed keys
+- Setting up network security groups and firewall rules
+- Establishing secure remote access using RDP
+- Building cloud environments for cybersecurity practice
 
-# Outcomes 
+## Environment Setup
+Deployed using Microsoft Azure's cloud infrastructure.  
+Built an isolated resource group with a virtual network and securely configured subnets to simulate a real-world, secure enterprise environment.
 
-By the end of this project, I successfully created a secure and efficient Azure Virtual Machine. I gained valuable skills in configuring VMs, managing encryption keys, and implementing network security measures. Additionally, I developed proficiency in setting up remote access and learned best practices for cybersecurity, enhancing my ability to conduct vulnerability assessments and threat hunting activities.
 
 # Walkthrough
 
@@ -37,7 +39,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 10. [Azure Resource Group Homepage](#step-10-azure-resource-group-homepage) 
 ##
 
-### Step 1 [Adding a Resource to Azure Group]
+### Step 1 Adding a Resource to Azure Group
 
 > _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
 > 
@@ -45,14 +47,14 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 
 > 
-### Step 2: [Azure Marketplace]
+### Step 2: Azure Marketplace
 
-> _Once in your resource group, click on the 'Create Resource' button to open the Azure Marketplace._
+> _Access the Azure Marketplace to select and configure your VM image._
 
 ![Step 2](images/2.jpg "Step 2 - Azure Marketplace")
 
 > 
-### Step 3: [Basics Tab]
+### Step 3: Basics Tab
 
 > _In the Basics tab, configure essential settings for your Azure Virtual Machine, such as the subscription, resource group, and VM name._
 - **[A]** Select the appropriate subscription. I had to select the one that had my resource group in it.
@@ -72,7 +74,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 
 > 
-### Step 4: [Disk Tab]
+### Step 4: Disk Tab
 
 > _In the Disk tab, configure the storage options for your Azure Virtual Machine._
 
@@ -88,7 +90,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 
 > 
-### Step 5: [Network tab]
+### Step 5: Network tab
 
 > _In the Networking tab, configure the network settings for your Azure Virtual Machine._
 
@@ -107,7 +109,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 
 > 
-### Step 6: [Management tab]
+### Step 6: Management tab
 
 > _In the Management tab, configure the management settings for your Azure Virtual Machine._
 
@@ -119,7 +121,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 
 > 
-### Step 7: [Monitoring tab]
+### Step 7: Monitoring tab
 
 > _In the Monitoring tab, configure the monitoring settings for your Azure Virtual Machine._
 
@@ -134,7 +136,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 
 > 
-### Step 8: [Azure Virtual Machine Review Page]
+### Step 8: Azure Virtual Machine Review Page
 
 > _Review all the settings and create the VM._
 
@@ -146,7 +148,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 
 > 
-### Step 9: [Azure Virtual Machine Deployment Confirmation Page]
+### Step 9: Azure Virtual Machine Deployment Confirmation Page
 
 > _Confirm the deployment of your Azure Virtual Machine._
 
@@ -156,7 +158,7 @@ By the end of this project, I successfully created a secure and efficient Azure 
 
 
 > 
-### Step 10: [Azure Resource Group Homepage]
+### Step 10: Azure Resource Group Homepage
 
 > _Return to the Azure Resource Group homepage.._
 >
