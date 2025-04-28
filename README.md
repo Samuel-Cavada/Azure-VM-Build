@@ -173,3 +173,12 @@ Built an isolated resource group with a virtual network and securely configured 
 > _Return to the Azure Resource Group homepage.._
 >
 ![Step 10](images/10.jpg "Step 10 - Azure Resource Group Homepage")
+
+
+## Outcomes and Lessons Learned
+- Gained hands-on experience deploying and configuring Azure Virtual Machines from the ground up.
+- Strengthened skills in applying encryption using platform-managed keys to secure data at rest.
+- Learned to configure Network Security Groups (NSGs) and firewall rules to tightly control traffic flow.
+- Built a secure cloud environment capable of supporting cybersecurity tasks like vulnerability management and threat hunting.
+- Understood the importance of balancing remote access setup (RDP) with strict security controls to minimize exposure risks.
+- Gained practical insight into how cloud infrastructure must be methodically planned, secured, and monitored for enterprise use.
