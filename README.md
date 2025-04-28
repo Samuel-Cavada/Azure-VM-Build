@@ -7,7 +7,6 @@
 
 <h1 align="center">Azure Virtual Machine Deployment</h1>
 
-# 🚀 Azure Virtual Machine Deployment
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
