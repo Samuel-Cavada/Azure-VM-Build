@@ -1,5 +1,15 @@
 <h1 align="center">Azure Virtual Machine Deployment</h1>
 
+# 🚀 Azure Virtual Machine Deployment
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/OS-Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Tool-Network%20Security%20Groups-00ADEF?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Protocol-RDP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/Focus-Secure%20VM%20Deployment-orange?style=for-the-badge">
+</p>
+
 
 # Project Objective
 This project focuses on building a secure and functional Azure Virtual Machine (VM) environment from the ground up. The goal was to configure key settings, strengthen encryption, and tighten network security — all essential for enabling secure remote access and supporting cybersecurity operations like vulnerability management and threat hunting.
