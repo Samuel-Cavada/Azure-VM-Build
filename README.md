@@ -188,3 +188,14 @@ Built an isolated resource group with a virtual network and securely configured 
 - Built a secure cloud environment capable of supporting cybersecurity tasks like vulnerability management and threat hunting.
 - Understood the importance of balancing remote access setup (RDP) with strict security controls to minimize exposure risks.
 - Gained practical insight into how cloud infrastructure must be methodically planned, secured, and monitored for enterprise use.
+
+
+
+<h1 align="center">Return To Projects</h1>
+
+<p align="center">
+  <a href="https://github.com/Samuel-Cavada/Windows-Vulnerability-Scanning-Authenticated-vs.-Unauthenticated">
+   <img src="https://img.shields.io/badge/🔙 Return_to-Windows_Vulnerability_Scanning-0A0A0A?style=for-the-badge&logo=github" alt="Return to Windows Vulnerability Scanning">
+  </a>
+</p>
+
