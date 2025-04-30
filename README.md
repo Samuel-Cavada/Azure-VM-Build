@@ -59,7 +59,8 @@ Built an isolated resource group with a virtual network and securely configured 
 
 > _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
 > 
-![ Image 1](images/1.jpg "CREATING A NEW RESOURCE INSIDE YOUR RESOURCE GROUP")
+![Image 1](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build/main/images/1.jpg)
+
 
 
 > 
@@ -67,8 +68,7 @@ Built an isolated resource group with a virtual network and securely configured 
 
 > _Access the Azure Marketplace to select and configure your VM image._
 
-![Step 2](images/2.jpg "Step 2 - Azure Marketplace")
-
+![Image 2](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build/main/images/2.jpg)
 > 
 ### Step 3: Basics Tab
 
@@ -86,7 +86,7 @@ Built an isolated resource group with a virtual network and securely configured 
 - **[K]** If you want to be able to remote into via RDP, then turn this on. I will, as I will use this virtual machine to conduct vulnerability management and threat hunting and other cybersecurity projects.
 - _Go to the next tab: Disks_
 
-![Step 3](images/3.jpg "Step 3 Basics Setup")
+![Image 3](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build/main/images/3.jpg)
 
 
 > 
@@ -102,7 +102,7 @@ Built an isolated resource group with a virtual network and securely configured 
 
 - _Go to the next tab: Network_
 
-![Step 4](images/4.jpg "Step 4 - Click Create Resource")
+![Image 4](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build/main/images/4.jpg)
 
 
 > 
@@ -121,7 +121,7 @@ Built an isolated resource group with a virtual network and securely configured 
 
 - _Go to the next tab: Management_
   
-![Step 5](images/5.jpg "Step 5 - Network tab")
+![Image 5](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build/main/images/5.jpg)
 
 
 > 
@@ -133,7 +133,7 @@ Built an isolated resource group with a virtual network and securely configured 
 
 - _Go to the next tab: Monitoring_
   
-![Step 6](images/6.jpg "Step 6 - Management tab")
+![Image 6](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build/main/images/6.jpg)
 
 
 > 
@@ -147,7 +147,7 @@ Built an isolated resource group with a virtual network and securely configured 
 
 - _Go to the next page: Review + Create_
 
-![Step 7](images/7.jpg "Step 7 - Monitoring tab")
+![Image 7](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build/main/images/7.jpg)
 
 
 
@@ -160,7 +160,7 @@ Built an isolated resource group with a virtual network and securely configured 
 
 - _Go to the next page: Create_
 
-![Step 8](images/8.jpg "Step 8 - Azure Virtual Machine Review Page")
+![Image 8](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build/main/images/8.jpg)
 
 
 > 
@@ -170,7 +170,7 @@ Built an isolated resource group with a virtual network and securely configured 
 
 - _Go to the next page: Go To Resource_
 
-![Step 9](images/9.jpg "Step 9 - Azure Virtual Machine Deployment Confirmation Page")
+![Image 9](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build/main/images/9.jpg)
 
 
 > 
@@ -178,7 +178,7 @@ Built an isolated resource group with a virtual network and securely configured 
 
 > _Return to the Azure Resource Group homepage.._
 >
-![Step 10](images/10.jpg "Step 10 - Azure Resource Group Homepage")
+![Image 10](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build/main/images/10.jpg)
 
 
 ## Outcomes and Lessons Learned
