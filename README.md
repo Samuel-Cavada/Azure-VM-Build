@@ -22,7 +22,7 @@
 </p>
 
 
-<h1 align="center">Azure Virtual Machine Deployment</h1>
+<h1 align="center">Azure Virtual Machine Deployment (Windows Image)</h1>
 
 
 <p align="center">
