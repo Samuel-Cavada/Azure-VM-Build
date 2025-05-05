@@ -134,7 +134,7 @@ Built an isolated resource group with a virtual network and securely configured 
 
 - **[Q]** Select this option only if you are okay with having a public IP address. This will increase the chance of exposure and also be a target for malicious attacks from the network.
 
-- **[R]**
+- **[R]** Ensure your inbound ports is set to RDP.
 
 - _Go to the next tab: Management_
   
